@@ -1,0 +1,10 @@
+TrainingData/zeros.pgm
+TrainingData/ones.pgm
+TrainingData/twos.pgm
+TrainingData/threes.pgm
+TrainingData/fours.pgm
+TrainingData/fives.pgm
+TrainingData/sixes.pgm
+TrainingData/sevens.pgm
+TrainingData/eights.pgm
+TrainingData/nines.pgm
