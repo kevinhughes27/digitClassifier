@@ -1,10 +1,10 @@
-TestData/zeros.pgm
-TestData/ones.pgm
-TestData/twos.pgm
-TestData/threes.pgm
-TestData/fours.pgm
-TestData/fives.pgm
-TestData/sixes.pgm
-TestData/sevens.pgm
-TestData/eights.pgm
-TestData/nines.pgm
+0 TestData/zeros.pgm
+1 TestData/ones.pgm
+2 TestData/twos.pgm
+3 TestData/threes.pgm
+4 TestData/fours.pgm
+5 TestData/fives.pgm
+6 TestData/sixes.pgm
+7 TestData/sevens.pgm
+8 TestData/eights.pgm
+9 TestData/nines.pgm
